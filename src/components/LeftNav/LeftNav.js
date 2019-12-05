@@ -14,7 +14,7 @@ function LeftNav() {
     <div className="containerNav">
       <div className="profileNav">
         <img src={profile} />
-        <span className="profileName">Léu Almeida</span>
+        <span className="profileName">Pedro Bazzo</span>
       </div>
 
       <div className="navigationList activeList">

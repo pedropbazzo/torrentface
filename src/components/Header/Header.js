@@ -22,7 +22,7 @@ function Header() {
       <div className="notifications">
         <div title="Perfil" className="perfil">
           <img src={profile} className="profileImage" />
-          <span className="border-right-nav text-nav">Léu</span>
+          <span className="border-right-nav text-nav">Pedro</span>
         </div>
 
         <span className="border-right-nav text-nav">Página Inicial</span>

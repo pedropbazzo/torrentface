@@ -63,17 +63,17 @@ class PostList extends Component {
       {
         id: 1,
         author: {
-          name: "Julio Alcantara",
-          avatar: "http://url-da-imagem.com/imagem.jpg"
+          name: "Ragnar",
+          avatar: ""
         },
         date: "04 Jun 2019",
-        content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
+        content: "Pessoal, alguém sabe se o Neymar ta jogando?",
         comments: [
           {
             id: 1,
             author: {
-              name: "Diego Fernandes",
-              avatar: "http://url-da-imagem.com/imagem.jpg"
+              name: "Pedro Paulo Bazzo",
+              avatar: ""
             },
             content: "Conteúdo do comentário"
           }
